@@ -9,7 +9,7 @@ Limon
 Guarana
 Coco
 Platano
-6 Verduras
+10 Verduras
 Zanahoria
 Chayote
 Apio
@@ -20,7 +20,7 @@ Rabano
 Col
 Tomate
 Esparrago
-6 Vegetales
+10 Vegetales
 Maiz
 Cilantro
 Epazote
