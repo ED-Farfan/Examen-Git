@@ -1,0 +1,21 @@
+6 Frutas
+Piña
+Fresa
+Guayaba
+Sandia
+Melon
+Mango
+6 Verduras
+Zanahoria
+Chayote
+Apio
+Cebolla
+Pepino
+Coliflor
+6 Vegetales
+Maiz
+Cilantro
+Epazote
+Lechuga
+Ajo
+Calabaza
