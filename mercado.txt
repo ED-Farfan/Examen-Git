@@ -12,7 +12,7 @@ Apio
 Cebolla
 Pepino
 Coliflor
-10 Vegetales
+6 Vegetales
 Maiz
 Cilantro
 Epazote
