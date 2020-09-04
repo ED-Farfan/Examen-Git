@@ -5,13 +5,17 @@ Guayaba
 Sandia
 Melon
 Mango
-6 Verduras
+10 Verduras
 Zanahoria
 Chayote
 Apio
 Cebolla
 Pepino
 Coliflor
+Rabano
+Col
+Tomate
+Esparrago
 6 Vegetales
 Maiz
 Cilantro
