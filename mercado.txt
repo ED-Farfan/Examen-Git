@@ -4,7 +4,7 @@ Fresa
 Guayaba
 Sandia
 Melon
-Mango
+Mango.
 6 Verduras
 Zanahoria
 Chayote
