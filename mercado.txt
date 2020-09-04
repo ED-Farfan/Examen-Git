@@ -5,7 +5,7 @@ Guayaba
 Sandia
 Melon
 Mango
-10 Verduras
+6 Verduras
 Zanahoria
 Chayote
 Apio
