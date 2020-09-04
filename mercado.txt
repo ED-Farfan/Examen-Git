@@ -12,10 +12,15 @@ Apio
 Cebolla
 Pepino
 Coliflor
-6 Vegetales
+10 Vegetales
 Maiz
 Cilantro
 Epazote
 Lechuga
 Ajo
 Calabaza
+Brocoli
+Pepino
+Cebolla
+Papa
+
